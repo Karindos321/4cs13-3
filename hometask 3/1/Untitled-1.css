@@ -1,0 +1,38 @@
+body{
+    background-color: #292d33;
+}
+.footer{
+    background-color: #333333;
+    padding: 30px 0;
+    text-align: center;
+    color:ghostwhite;
+}
+.di1{
+    margin: auto;
+    max-width: 950px;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.di2{
+    
+    box-sizing: border-box;
+    margin: 5px;
+    padding: 100px;
+    background-color: #434951;
+    border-radius: 20px;
+    width: 40% ;
+    
+}
+
+.text{
+    color:ghostwhite;
+    text-align: center;
+}
+.table{
+    border-spacing: 30px;
+}
+p{
+    font-size: larger;
+}

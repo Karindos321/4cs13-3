@@ -1,0 +1,58 @@
+body{
+    background-image: url("./htr-image-6793.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+.footer{
+    background-color: #333333;
+    padding: 50px 2em 50px 2em ;
+    text-align: center;
+    color:ghostwhite;
+}
+.di1{
+    margin: auto;
+    max-width: 950px;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.di2{
+    
+    box-sizing: border-box;
+    margin: 5px;
+    padding: 100px;
+    background-color: #434951;
+    border-radius: 20px;
+    width: 40% ;
+    
+}
+
+.text1{
+    color:orange;
+    text-align: center;
+}
+.text2{
+    color:ghostwhite;
+    text-align: center;
+}
+.text3{
+    color:black;
+    text-align: center;
+}
+.table{
+    border-spacing: 110px;
+    background-color: white;
+    text-align: center;
+    margin: 40 40 40 40
+    
+}
+p{
+    font-size: 20px;
+    text-align: center;
+}
+h1{
+    
+    font-size: 50px;
+}
